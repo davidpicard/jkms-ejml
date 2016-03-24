@@ -1,4 +1,4 @@
-package net.jkernelmachines.jkms-ejml;
+package net.jkernelmachines.jkms_ejml;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

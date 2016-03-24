@@ -1,4 +1,4 @@
-package net.jkernelmachines.jkms-ejml;
+package net.jkernelmachines.jkms_ejml;
 
 /**
  * Hello world!
